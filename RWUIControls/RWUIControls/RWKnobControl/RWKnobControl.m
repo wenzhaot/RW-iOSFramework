@@ -33,6 +33,7 @@
         [self addGestureRecognizer:_gestureRecognizer];
         
         [self createKnobUI];
+        
     }
     return self;
 }
